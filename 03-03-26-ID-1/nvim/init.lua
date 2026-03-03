@@ -315,7 +315,7 @@ local header_art = {
     "              ██  ",
     "",
     "",
-    "             Jin            "
+    "      What do you see?      "
 }
 
 -- Calculate vertical padding to center the dashboard content
